@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -oE \"\\\\-\\\\-token-[a-f0-9-]+:\\\\s*\\(rgb[a]?\\\\\\([^\\)]*\\\\\\)|#[0-9a-fA-F]{3,8}\\)\" home2.html)"
+    ]
+  }
+}
